@@ -65,7 +65,7 @@ h2{
     border: 1px solid gray;
     box-shadow: 5px 5px 5px linen;
     border-radius: 5px;
-
+    padding: 15px;
 }
 #box-2{
     width:250px;
@@ -74,6 +74,7 @@ h2{
     border: 1px solid gray;
     box-shadow: 5px 5px 5px linen;
     border-radius: 5px;
+    padding: 15px;
 
 }
 #box-3{
@@ -83,7 +84,7 @@ h2{
     border: 1px solid gray;
     box-shadow: 5px 5px 5px linen;
     border-radius: 5px;
-
+    padding: 15px;
 }
 .about-container{
     width: 80%;
@@ -102,6 +103,9 @@ h2{
 }
 .about-text{
     width: 550px;
+}
+.section-5{
+    margin-top: 100px;
 }
 .footer-container{
     margin-top: 200px;
